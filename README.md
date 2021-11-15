@@ -31,4 +31,4 @@ Acknowledgement to Original work:
 
 # Comment Extraction
 I have used **[PRAW](https://praw.readthedocs.io/en/stable/)**, a python library to communicate with **[Reddit API](https://www.reddit.com/wiki/api)** to extract the comment texts using given comment ids and post ids.
-Find here **[the notebook](https://www.kaggle.com/rajkumarl/ruddit-comment-extraction)** that performs comment extraction
+Find here **[the notebook](https://www.kaggle.com/rajkumarl/ruddit-comment-extraction)** that performs comment extraction. A copy of this notebook is maintained with this repository.
